@@ -13,6 +13,3 @@
 12 – What is statelessness in RESTful Web Services ?
 13 - What is CSRF attack? How to prevent ?
 14 - What are the core components of the HTTP request and HTTP response ?
-
-# hw-3-MustafaSelimG
-# hw-3-MustafaSelimG
